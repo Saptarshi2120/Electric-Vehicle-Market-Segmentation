@@ -1,7 +1,9 @@
 # Electric-Vehicle-Market-Segmentation
 Performing Market Segmentation on different Electric Vehicles datasets by different data visualization techniques to gain insights and find underlying patternsThe electric vehicle (EV) industry has witnessed remarkable growth and transformation over the past decade. Driven by advancements in technology, environmental concerns, and shifting consumer preferences, electric vehicles have emerged as a pivotal force in the global automotive market. This market abstract provides a concise overview of the key trends, drivers, challenges, and future prospects of the EV industry.
+
 Automobiles that run on electric motors rather than internal combustion engines (ICEs), which depend on fossil fuels, are known as electric vehicles (EVs). They store electricity and supply it to the electric motor that drives the car using rechargeable batteries or other energy storage technologies. Compared to conventional ICE vehicles, EVs have a number of advantages, making them a more and more common choice among consumers and a crucial part of sustainable transportation solutions.
 The transportation sector in India has expanded and grown significantly in recent years. 
+
 The difference between domestic crude oil consumption and domestic crude oil output is widening. India imports enough oil to meet about 70% of its annual demand. 
 Therefore, there is a pressing need for research on the factors that contribute to and provide obstacles to the creation of environmentally friendly transportation options. A practical, sustainable, and ecologically beneficial means of transportation is represented by electric vehicles (EVs).
 Electric vehicle market penetration is growing globally, but it still faces significant challenges, including high prices, limited driving range, lack of charging infrastructure, and consumer awareness.
